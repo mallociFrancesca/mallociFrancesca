@@ -24,7 +24,7 @@ I'm ***Francesca***, I've a Ph.D. in Computer Science.
 My research currently focus on *Predictive Analytics*, *Deep Learning* and *Decision Support Systems* applied to Precision Agriculture and Economics sectors. I’m involved in the LANDS project, a prototype Decision Support System for Precision Agriculture. 
 
 
-if you are interested in forecasting plant disease using deep learning, maybe you can find useful my Leaf Box toolbox, and the DiaMONDS dataset that I have developed during my Ph.D. 👇
+if you are interested in forecasting plant disease using deep learning, maybe you can find useful my Leaf Box toolbox, and the DiaMOS dataset that I have developed during my Ph.D. 👇
 
 &nbsp;
 <p>
