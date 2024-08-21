@@ -17,7 +17,7 @@
 
 ### :woman_technologist: &nbsp; About Me :
 
-I'm ***Francesca***, I've a Ph.D. in Computer Science.
+I'm ***Francesca***, I'm Assitant Professor at the University of Cagliari (Italy).
 
 
 
